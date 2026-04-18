@@ -40,10 +40,10 @@ build/
 /.idea/encodings.xml
 /.idea/misc.xml
 /mock_students.json
-/pom.xml
 /src - Shortcut.lnk
 /.idea/uiDesigner.xml
 *.py
-*.xml
 *.zip
 *.rar
+.idea/go.imports.xml
+.idea/
